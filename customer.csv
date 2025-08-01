@@ -1,0 +1,6 @@
+OrderID,CustomerName,OrderDate,Amount,Category,PaymentMethod,Location,Notes
+1001,John Doe,2023-05-01,120.5,Electronics,Credit Card, New York ,Used coupon C123
+1002,Jane Smith,May 2nd 2023,$85,Fashion,PayPal,Los Angeles,Delayed delivery
+1003,mike taylor,,60.0,home & kitchen,cash on delivery, ,Item damaged
+1004,Alice JOHNSON,2023/05/04,75,Fashion,Credit card,Chicago,"Used 2 coupons: A50, B25"
+1005,Bob Lee,2023-05-05,not available,electrnics,payPAL,Houston,wrong color delivered
